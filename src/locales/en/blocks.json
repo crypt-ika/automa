@@ -448,6 +448,13 @@
           "add-sheet": "Add sheet"
         }
       },
+      "chatgpt": {
+        "name": "ChatGPT",
+        "description": "",
+        "openaimodel": "OpenAI Model",
+        "openaikey": "OpenAI Key",
+        "openaiprompt": "OpenAI Prompt"
+      },
       "active-tab": {
         "name": "Active tab",
         "description": "Set the tab you're in as the active tab"

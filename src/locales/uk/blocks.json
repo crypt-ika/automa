@@ -773,6 +773,9 @@
             "main": "Головне вікно",
             "iframe": "Iframe"
           }
+        },
+        "chatpgpt": {
+          "Name": "ChatGPT"
         }
       }
     }

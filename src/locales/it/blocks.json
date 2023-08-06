@@ -772,6 +772,9 @@
           "main": "Finestra principale",
           "iframe": "Iframe"
         }
+      },
+      "chatpgpt": {
+        "Name": "ChatGPT"
       }
     }
   }

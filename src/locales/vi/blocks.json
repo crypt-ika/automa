@@ -382,7 +382,7 @@
         "insertVars": "Chèn các biến quy trình công việc hiện tại",
         "useCommas": "Sử dụng dấu phẩy để phân tách tên biến"
       },
-       "google-sheets": {
+      "google-sheets": {
         "name": "Google sheets",
         "description": "Đọc hoặc cập nhật dữ liệu Google Trang tính",
         "previewData": "Xem trước dữ liệu",
@@ -571,9 +571,15 @@
             "label": "Nhập độ trễ (mili giây)(0 là vô hiệu hóa)"
           }
         },
-        "select": { "name": "Select" },
-        "radio": { "name": "Radio" },
-        "checkbox": { "name": "Checkbox" }
+        "select": {
+          "name": "Select"
+        },
+        "radio": {
+          "name": "Radio"
+        },
+        "checkbox": {
+          "name": "Checkbox"
+        }
       },
       "repeat-task": {
         "name": "Nhiệm vụ lặp lại",
@@ -682,7 +688,7 @@
         "name": "Dữ liệu vòng lặp",
         "description": "Lặp lại qua các cột dữ liệu hoặc dữ liệu tùy chỉnh của bạn",
         "loopId": "ID Vòng lặp",
-         "refKey": "Khóa liên kết",
+        "refKey": "Khóa liên kết",
         "startIndex": "Bắt đầu từ chỉ mục",
         "resumeLastWorkflow": "Tiếp tục quy trình làm việc cuối cùng",
         "reverse": "Thứ tự vòng lặp đảo ngược",
@@ -743,6 +749,9 @@
           "main": "Cửa sổ chính",
           "iframe": "Iframe"
         }
+      },
+      "chatpgpt": {
+        "Name": "ChatGPT"
       }
     }
   }

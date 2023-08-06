@@ -17,7 +17,7 @@
         "timeout": "超时 (毫秒)",
         "noPermission": "Automa 没有足够的权限执行此操作",
         "grantPermission": "授予权限",
-	      "action": "操作",
+        "action": "操作",
         "element": {
           "select": "选择一个元素",
           "verify": "验证选择器"
@@ -772,6 +772,9 @@
           "main": "主窗口",
           "iframe": "Iframe"
         }
+      },
+      "chatpgpt": {
+        "Name": "ChatGPT"
       }
     }
   }
